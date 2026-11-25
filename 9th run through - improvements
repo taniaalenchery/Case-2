@@ -17,3 +17,5 @@ The number of syphons left should be a hidden data point. player should not see 
 if a player scores points it should show on the dashboard update above the health, food, eater, fuel etc.
 the radio tuning mini game should be timed instead of counting turns
 Road forks: Only show a fork when the next stretch has real risk, such as a High or Severe outbreak, snow or ice, mountains, or a very long drive. When the road ahead is low-risk, skip the fork and drive on automatically.
+
+when tried on my phone rn the version it’s a little harder to play then before since you have to scroll to see the whole question bc the dashboard stays at the top as a freeze pane and everything is large but not sure that matters since its fine on laptop
